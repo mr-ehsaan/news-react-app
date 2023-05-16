@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Use node version v18.16.0 (LTS).
 
-## Available Scripts
+## Available Scripts to run the project
 
 In the project directory, you can run:
 
